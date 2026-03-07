@@ -219,13 +219,6 @@ pip install -r job_bot/requirements.txt
 - Verify `RESUME_PATH` and `COVER_LETTER_PATH` are correct absolute paths
 - Confirm file exists and is readable
 
-## 👨‍💻 Contributor Notes
-
-- Keep code comments up to date with behavior
-- Prefer explicit selectors over broad fuzzy matches
-- Keep config changes backward-compatible
-- Test in `--dry-run` before live runs
-
 ## 🔮 Future Improvements
 
 - Add support for additional job application platforms (for example LinkedIn Easy Apply, Lever, Workday, and company ATS pages).
