@@ -144,6 +144,12 @@ COVER_LETTER_PATH=/absolute/path/to/coverletter.pdf
 
 ### B) `data/user_data.json` (profile + run settings)
 
+Create your private file from the template first:
+
+```bash
+cp data/user_data.example.json data/user_data.json
+```
+
 Fill personal data and run preferences:
 
 - Name, email, phone
@@ -155,6 +161,12 @@ Fill personal data and run preferences:
 - Education block
 
 ### C) `data/custom_answers.json` (custom question bank)
+
+Create your private file from the template first:
+
+```bash
+cp data/custom_answers.example.json data/custom_answers.json
+```
 
 Store question/answer mappings for application forms.
 

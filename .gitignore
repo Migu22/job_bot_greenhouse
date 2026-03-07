@@ -41,3 +41,6 @@ data/custom_answer_memory.json
 playwright-report/
 test-results/
 *.tmp
+
+data/user_data.json
+data/custom_answers.json

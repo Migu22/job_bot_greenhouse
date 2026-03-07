@@ -1,0 +1,32 @@
+{
+  "first_name": "YourFirstName",
+  "last_name": "YourLastName",
+  "email": "you@example.com",
+  "phone": "555-123-4567",
+  "linkedin": "https://www.linkedin.com/in/your-profile",
+  "github": "https://github.com/your-username",
+  "portfolio": "https://your-portfolio.com",
+  "city": "YourCity",
+  "state": "YourState",
+  "zip_code": "00000",
+  "work_authorization": "Yes",
+  "require_sponsorship": "No",
+  "search_keywords": [
+    "AI Engineer",
+    "Software Engineer"
+  ],
+  "application_limit_per_run": 5,
+  "education": {
+    "school": "Your University",
+    "degree": "Bachelor's Degree",
+    "discipline": "Computer Science",
+    "start_date": {
+      "month": "01",
+      "year": "2020"
+    },
+    "end_date": {
+      "month": "12",
+      "year": "2024"
+    }
+  }
+}
