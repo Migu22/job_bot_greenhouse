@@ -23,8 +23,7 @@ python -m job_bot.main --dry-run
 ## 📽️ See It In Action
 
 Add your demo links here:
-- Demo video: `YOUR_LINK_HERE`
-- Setup video: `YOUR_LINK_HERE`
+- Demo video: `https://youtu.be/ziqVJKnnpzw`
 
 ### Demo Preview
 
