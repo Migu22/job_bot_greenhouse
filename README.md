@@ -29,19 +29,19 @@ Demo video: [Watch here](https://youtu.be/ziqVJKnnpzw)
 
 ## ✨ Contents
 
-- [Introduction](#greenhouse-ai-auto-job-applier-)
-- [Quick Start](#quick-start)
-- [See It In Action](#-see-it-in-action)
-- [Features](#-features)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [Configuration](#-configuration)
-- [Usage](#-usage)
-- [Data Outputs](#-data-outputs)
-- [Troubleshooting](#-troubleshooting)
-- [Contributor Notes](#-contributor-notes)
-- [Future Improvements](#-future-improvements)
-- [Disclaimer](#-disclaimer)
+- [Introduction]
+- [Quick Start]
+- [See It In Action]
+- [Features]
+- [Project Structure]
+- [Installation]
+- [Configuration]
+- [Usage]
+- [Data Outputs]
+- [Troubleshooting]
+- [Contributor Notes]
+- [Future Improvements]
+- [Disclaimer]
 
 ## 🚀 Features
 
