@@ -25,22 +25,7 @@ python -m job_bot.main --dry-run
 Add your demo links here:
 - Demo video: `https://youtu.be/ziqVJKnnpzw`
 
-### Demo Preview
 
-```md
-[![Auto Job Applier Demo](screenshots/demo-thumbnail.png)](YOUR_LINK_HERE)
-```
-
-### Setup Preview
-
-```md
-[![Setup Tutorial](screenshots/setup-thumbnail.png)](YOUR_LINK_HERE)
-```
-
-### Optional GIF
-
-```md
-![Bot Demo GIF](screenshots/demo.gif)
 ```
 
 ## ✨ Contents
