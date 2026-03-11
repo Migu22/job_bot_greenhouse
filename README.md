@@ -25,8 +25,6 @@ python -m job_bot.main --dry-run
 Demo video: [Watch here](https://youtu.be/ziqVJKnnpzw)
 
 
-```
-
 ## ✨ Contents
 
 - [Introduction]
@@ -56,7 +54,6 @@ Demo video: [Watch here](https://youtu.be/ziqVJKnnpzw)
 
 ## 🗂️ Project Structure
 
-```text
 job_bot_greenhouse/
 ├── core/
 │   ├── browser.py
