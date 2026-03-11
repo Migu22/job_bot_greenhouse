@@ -53,7 +53,7 @@ Demo video: [Watch here](https://youtu.be/ziqVJKnnpzw)
 - CSV logs and run summary dashboard
 
 ## 🗂️ Project Structure
-
+```
 job_bot_greenhouse/
 ├── core/
 │   ├── browser.py
