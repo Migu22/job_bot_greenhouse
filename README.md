@@ -1,4 +1,4 @@
-# Greenhouse AI Auto Job Applier 🤖
+# Greenhouse AI Auto Job Applier 
 
 This project automates job applications on **MyGreenhouse/Greenhouse-hosted boards** using Playwright.
 
